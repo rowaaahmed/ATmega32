@@ -1,0 +1,1 @@
+In the simulation on proteus video, there is a shift in the cursor between the place I was actually pointing at and the one visible in the video.
